@@ -1,4 +1,4 @@
-# ios-defendEarth
+# ios-Defend Earth
 A classic aircraft shooting game.
 Defend Earth is an iOS game inspired by the work of Ray Wenderlich. 
 However, this version is more complicated as I have implemented more action events, 
